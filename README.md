@@ -58,3 +58,14 @@ auto2030.db → SQLite Datenbank
 ## Projekt starten
 
 1. Repository klonen
+
+## Screenshots
+
+### Hauptfenster
+![Main Window](screenshots/mainwindow.png)
+
+### Kundenliste
+![Kundenliste](screenshots/kundenliste.png)
+
+### Fahrzeugliste
+![Fahrzeugliste](screenshots/fahrzeugliste.png)
