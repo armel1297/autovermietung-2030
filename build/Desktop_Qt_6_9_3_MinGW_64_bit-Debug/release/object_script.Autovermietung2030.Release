@@ -1,0 +1,16 @@
+release/fahrzeugeinzel.o
+release/fahrzeugliste.o
+release/fahrzeugneu.o
+release/kundeeinzel.o
+release/kundeliste.o
+release/kundeneu.o
+release/kundensuchergebnis.o
+release/main.o
+release/mainwindow.o
+release/qrc_symbole.o
+release/moc_fahrzeugeinzel.o
+release/moc_fahrzeugneu.o
+release/moc_kundeeinzel.o
+release/moc_kundeneu.o
+release/moc_kundensuchergebnis.o
+release/moc_mainwindow.o
