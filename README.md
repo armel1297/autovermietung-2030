@@ -61,7 +61,7 @@ auto2030.db → SQLite Datenbank
 
 ## Screenshots
 
-### Hauptfenster
+### Mainwindow
 ![Main Window](screenshots/mainwindow.png)
 
 ### Kundenliste
