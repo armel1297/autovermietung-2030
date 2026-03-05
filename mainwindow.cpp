@@ -37,8 +37,7 @@ bool MainWindow::dbVerbinden()
     bool gelungen = true;
     //die Verbindung zur Datenbank herstellen
     datenbank = QSqlDatabase::addDatabase("QSQLITE");
-    datenbank.setDatabaseName("C:/Users/Toukam/sqlite-tools-win32-x86-3350400/auto2030.db");
-    // datenbank.setDatabaseName("auto2030.db");
+    datenbank.setDatabaseName("auto2030.db");
     //konnte die Datenbank geöffnet werden?
     //wenn nicht, geben wir eine Meldung aus
     if (datenbank.open() == false)
